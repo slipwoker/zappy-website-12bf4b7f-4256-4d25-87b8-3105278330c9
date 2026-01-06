@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ikma-israel-krav-maga-arbiv-system-12bf4b7f.zappy5.app/sitemap.xml
